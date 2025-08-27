@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CEIS400_ECS
+{
+    public enum Roles
+    {
+        Admin,
+        Supervisor,
+        DeptStaff,
+        Customer
+    }
+}
